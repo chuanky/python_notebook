@@ -1,3 +1,9 @@
+# vscode 文件
+.vscode
+# 训练用数据
+data/
+# 缓存模型
+models/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
